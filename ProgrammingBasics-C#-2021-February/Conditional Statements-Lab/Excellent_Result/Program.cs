@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Conditional_Statement1
+namespace Excellent_Result
 {
     class Program
     {
