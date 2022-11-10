@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace Conditional_Statement3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num = int.Parse(Console.ReadLine());
+            if (num % 2 == 0)
+            {
+                Console.WriteLine("even");
+            }
+            else
+            {
+                Console.WriteLine("odd");
+            }
+        }
+    }
+}
