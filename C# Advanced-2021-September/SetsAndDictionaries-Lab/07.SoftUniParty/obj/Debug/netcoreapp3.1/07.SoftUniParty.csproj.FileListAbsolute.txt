@@ -1,0 +1,13 @@
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.exe
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.deps.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.runtimeconfig.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.runtimeconfig.dev.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\bin\Debug\netcoreapp3.1\07.SoftUniParty.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.csprojAssemblyReference.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.AssemblyInfo.cs
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\07.SoftUniParty\obj\Debug\netcoreapp3.1\07.SoftUniParty.genruntimeconfig.cache

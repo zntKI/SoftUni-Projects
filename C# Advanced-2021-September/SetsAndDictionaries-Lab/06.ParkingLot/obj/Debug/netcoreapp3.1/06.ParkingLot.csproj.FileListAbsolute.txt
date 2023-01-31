@@ -1,0 +1,12 @@
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.exe
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.deps.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.runtimeconfig.dev.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\bin\Debug\netcoreapp3.1\06.ParkingLot.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.AssemblyInfo.cs
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\06.ParkingLot\obj\Debug\netcoreapp3.1\06.ParkingLot.genruntimeconfig.cache

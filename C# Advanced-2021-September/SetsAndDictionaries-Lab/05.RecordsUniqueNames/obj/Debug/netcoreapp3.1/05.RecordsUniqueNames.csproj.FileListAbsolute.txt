@@ -1,0 +1,12 @@
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.exe
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.deps.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.runtimeconfig.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.runtimeconfig.dev.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\bin\Debug\netcoreapp3.1\05.RecordsUniqueNames.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.AssemblyInfoInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.AssemblyInfo.cs
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\05.RecordsUniqueNames\obj\Debug\netcoreapp3.1\05.RecordsUniqueNames.genruntimeconfig.cache

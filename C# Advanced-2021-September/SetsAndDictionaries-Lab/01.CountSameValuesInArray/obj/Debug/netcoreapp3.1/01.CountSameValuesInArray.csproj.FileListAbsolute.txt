@@ -1,0 +1,13 @@
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.exe
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.deps.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+C:\Users\kaloy\source\repos\SetsAndDictionaries\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.genruntimeconfig.cache
